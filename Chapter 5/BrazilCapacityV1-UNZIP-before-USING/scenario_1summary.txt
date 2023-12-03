@@ -1,0 +1,8 @@
+loaded input data
+Testing Input Data
+Building the models
+status:Infeasible
+Total Demand:98666593
+Objective: 42402952458.74868
+Average service distance: 429.8km
+Run Time of model in seconds 0.2

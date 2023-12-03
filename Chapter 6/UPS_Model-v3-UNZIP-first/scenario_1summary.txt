@@ -1,0 +1,8 @@
+Loaded input data.
+Testing Input Data
+Building the models
+status:Optimal
+Total Demand:1643000
+Objective: 9861970.0
+Average cost per unit shipped: 6.0$
+Run Time of model in seconds 0.3

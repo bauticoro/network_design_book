@@ -1,0 +1,22 @@
+Loaded input data.
+Testing Input Data
+Building the models
+status:Optimal
+Total Demand:344145000
+Objective: 61493625.013427734
+Average cost per unit shipped: 0.17868521993179542$
+Run Time of model in seconds 1.4
+Demand in period1:51039000
+Supplied in period1:51039000.0
+Demand in period2:58696000
+Supplied in period2:58696000.0
+Demand in period3:67502000
+Supplied in period3:67502000.0
+Demand in period4:77630000
+Supplied in period4:77630000.0
+Demand in period5:89278000
+Supplied in period5:89278000.0
+Double base option taken atBirmingham Plant
+Better lines option taken atGlasgow Plant
+Double base option taken atBristol Plant
+Double base option taken atManchester Plant
